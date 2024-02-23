@@ -9,8 +9,9 @@ redirect_from:
 
 Hi there! I am Haoji Liu, a first-year Ph.D. student in [Systems and Information Engineering](https://engineering.virginia.edu/departments/systems-and-information-engineering) at the [University of Virginia (UVA)](https://www.virginia.edu/), working with Prof. [Byungkyu Brian Park](https://engineering.virginia.edu/faculty/b-brian-park). Prior to UVA, I received my master's degree in Mechanical Engineering from Southeast University, China in 2022. I was with the [Research Center for Intelligent Eletrified Mobility](https://ciem.seu.edu.cn/_s508/main.psp), where I worked with Prof. [Guodong Yin](https://me.seu.edu.cn/ygd/listm.htm) and Associate Prof. [Weichao Zhuang](https://me.seu.edu.cn/zwc1/list.htm). My previous research works focus on vehicle dynamics and control, and cooperative control for connected automated vehicles (CAVs) in mixed traffic.
 
-Research Bio
-------
+**Research Bio** | Keywords: connected automated vehicles (CAVs), cooperative driving, eco-driving, mixed traffic. 
+
+
 My research endeavors to bridge the gap between microscopic vehicle control and macroscopic traffic harmonization. I am interested in leveraging control theory and reinforcement learning techniques to explore how cooperative control of CAVs can transform future transportation systems in terms of safety, efficiency, ecology, and equity. Currently, my research encompasses the following areas: 
 
 1) Cooperative formation and platooning of CAVs in mixed traffic flow; 
