@@ -25,13 +25,13 @@ My research endeavors to bridge the gap between microscopic vehicle control and 
 News
 ======
 
-Feb. 2024- Our paper on energy-oriented driving strategy for connected electric vehicles was published in Energy [Online]
-Feb. 2024- Our paper on eco-routing strategy for vehicles with different powertrain types was accepted by Energy [Online]
-Nov. 2023- Our paper on eco-routing for electric vehicles using deep reinforcement learning was published in Applied Energy [Online]
-Oct. 2023- Our paper on traffic-aware ecological cruising control was published in IEEE Transactions on Transportation Electrification [Online]
-Aug. 2023- Moved to Charlottesville to begin my PhD research journey! 
-Apr. 2023- Our paper on active front steering control considering CAN delay was published in IEEE Transactions on Transportation Electrification [Online]
-Feb. 2023- Our paper on cooperative on-ramp merging in mixed traffic was published in IEEE Transactions on Intelligent Transportation Systems [Online]
+* Feb. 2024- Our paper on energy-oriented driving strategy for connected electric vehicles was published in Energy [Online](https://www.sciencedirect.com/science/article/pii/S0360544223033108)
+* Feb. 2024- Our paper on eco-routing strategy for vehicles with different powertrain types was accepted by Energy [Online](https://www.sciencedirect.com/science/article/pii/S0360544224003554)
+* Nov. 2023- Our paper on eco-routing for electric vehicles using deep reinforcement learning was published in Applied Energy [Online](https://www.sciencedirect.com/science/article/pii/S0306261923010759)
+* Oct. 2023- Our paper on traffic-aware ecological cruising control was published in IEEE Transactions on Transportation Electrification [Online](https://ieeexplore.ieee.org/abstract/document/10287643)
+* Aug. 2023- Moved to Charlottesville to begin my PhD research journey! 
+* Apr. 2023- Our paper on active front steering control considering CAN delay was published in IEEE Transactions on Transportation Electrification [Online](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316)
+* Feb. 2023- Our paper on cooperative on-ramp merging in mixed traffic was published in IEEE Transactions on Intelligent Transportation Systems [Online](https://ieeexplore.ieee.org/abstract/document/10053376)
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
